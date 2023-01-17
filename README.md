@@ -1,3 +1,3 @@
 # CS-260
 
-stuff n stuff
+resolved theconflict by deleting everything
